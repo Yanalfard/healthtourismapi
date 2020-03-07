@@ -23,7 +23,7 @@ namespace HelthTourismV2.Utilities
 
         private void _disconnect()
         {
-            _connection.Close();
+            _connection.Close(); 
         }
 
         public enum Tables
